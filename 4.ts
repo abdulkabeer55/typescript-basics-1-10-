@@ -2,5 +2,6 @@
 // Your output should look something like the following, including the quotation marks:
 // Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 
-let famousPerson : string=`Julius Robert Oppenheimer Once Said , "Now I've Became Death The Destroyer Of Worlds"`;
-console.log(famousPerson);
+let famousQuote : string="Now I've Became Death The Destroyer Of Worlds";
+let author : string= "Julius Robert Oppenheimer"
+console.log(`${author} once said, ${famousQuote}`);

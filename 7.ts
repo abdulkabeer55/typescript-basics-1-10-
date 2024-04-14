@@ -2,13 +2,13 @@
 // Be sure to enclose your operations in print statements to see the results.
 
 let no1: number = 7+1;
-console.log(no1);
+console.log("Addition Result : " + no1);
 let no2: number = 9-1;
-console.log(no2);
+console.log("Subtraction Result : " + no2);
 let no3: number = 2*4;
-console.log(no3);
+console.log("Multiplication Result : " + no3);
 let no4: number = 16/2;
-console.log(no4);
+console.log("Division Result : " + no4);
 
 
 

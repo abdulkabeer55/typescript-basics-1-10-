@@ -3,5 +3,5 @@
 // Print the name once, so the whitespace around the name is displayed.
 // Then print the name after striping the white spaces.
 
-let person0name :string = "Hello my name is \t abdul kabeer. \n I am currently studying in the last level of high school."
-console.log(person0name);
+let personName :string = "Hello my name is \t abdul kabeer. \n I am currently studying in the last level of high school."
+console.log(personName);
